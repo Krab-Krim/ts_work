@@ -1,0 +1,17 @@
+{
+  "name": "dz_redux",
+  "version": "1.0.0",
+  "main": "scrtipt.js",
+  "dependencies": {
+    "react-redux": "^9.2.0",
+    "sass": "^1.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
