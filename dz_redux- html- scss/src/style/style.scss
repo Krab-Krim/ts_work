@@ -1,0 +1,27 @@
+@mixin button($bg-color, $text-color, $padding) {
+    background-color: $bg-color;
+    color: $text-color; 
+    padding: $padding;
+}
+
+.button {
+    @include button(#3498db, #ffffff, 10px 20px);
+    border-radius: 10px;
+}
+
+.setka {
+    border: 5px solid #2E9AFF;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    #setka_id {
+        border: 3px solid #003566;
+        flex: 1 1 calc(33.333% - 12px);
+        text-align: center;
+        
+        @media (max-width: 768px) {
+        flex: 1 1 100%;
+      }
+    }
+    
+}

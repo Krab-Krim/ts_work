@@ -26,6 +26,8 @@ let names: Array<string> = ["Alex", "Bob"]
 // Кортежи (Tuples)
 let use: (number | string)[] = ["Alex" , 25]
 let user: [string, number] = ["Alice", 25];
+let cor1: [number, number, ...string[]] = [111, 23, 'sadads', 'asd']
+const cor: readonly[number, string] = [11, 'name'] //только для чтения
 
 // Any
 

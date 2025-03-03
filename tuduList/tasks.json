@@ -1,0 +1,33 @@
+[
+  {},
+  {
+    "id": null,
+    "description": "Купить молоко",
+    "completes": false
+  },
+  {
+    "id": null,
+    "description": "Позвонить другу",
+    "completes": false
+  },
+  {
+    "id": null,
+    "description": "Прочитать книгу",
+    "completes": false
+  },
+  {
+    "id": null,
+    "description": "Купить молоко",
+    "completes": false
+  },
+  {
+    "id": null,
+    "description": "Позвонить другу",
+    "completes": false
+  },
+  {
+    "id": null,
+    "description": "Прочитать книгу",
+    "completes": false
+  }
+]
